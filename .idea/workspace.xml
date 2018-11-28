@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9d973ba-7349-4055-9c11-5c61e072c4d1" name="Default" comment="" />
+    <list default="true" id="d9d973ba-7349-4055-9c11-5c61e072c4d1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/PushNotificationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/MyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/TestsJeeng/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/ApplicationManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/HelperBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/SessionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/out/test/classes/Jeeng/appManager/SessionHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/MyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/MyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -32,28 +47,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/Login.java">
+      <file leaf-file-name="PushNotifications.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="279">
+              <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionHelper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/SessionHelper.java">
+      <file leaf-file-name="PushNotificationsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/PushNotificationsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="243">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="56" column="43" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,14 +129,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Jenng" />
+              <option name="name" value="Jeeng" />
               <option name="path" value="$PROJECT_DIR$/Jenng" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Jenng" />
+                <option name="name" value="Jeeng" />
                 <option name="path" value="$PROJECT_DIR$/Jenng" />
               </ExternalProjectPojo>
             </list>
@@ -267,7 +291,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Jenng'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'Jeeng'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -277,7 +301,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Jenng'." />
+                <option name="description" value="Displays the sub-projects of root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -287,12 +311,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'Jenng'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'Jeeng'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'Jenng'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -317,7 +341,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Jenng'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'Jeeng'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -327,7 +351,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Jenng'." />
+                <option name="description" value="Displays the tasks runnable from root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -347,7 +371,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Jenng'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -372,7 +396,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Jenng'." />
+                <option name="description" value="Displays all dependencies declared in root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -397,7 +421,7 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Jenng'." />
+                <option name="description" value="Displays the properties of root project 'Jeeng'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Jenng" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -410,11 +434,11 @@
       <map>
         <entry key="$PROJECT_DIR$" value="6173219699956" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/Jenng" value="6173220507489" />
+        <entry key="$PROJECT_DIR$/Jenng" value="6173227349298" />
         <entry key="$PROJECT_DIR$/Jenng/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/Jenng/build.gradle" value="2559643127" />
         <entry key="$PROJECT_DIR$/Jenng/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
-        <entry key="$PROJECT_DIR$/Jenng/settings.gradle" value="3034786577" />
+        <entry key="$PROJECT_DIR$/Jenng/settings.gradle" value="1675799568" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2559643127" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2177484868" />
@@ -534,7 +558,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="Jenng" />
+              <option name="name" value="Jeeng" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
@@ -623,7 +647,6 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-        <entry key="$PROJECT_DIR$/Jenng" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -632,13 +655,18 @@
       <list>
         <option value="$PROJECT_DIR$/Jenng/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java" />
         <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/Login.java" />
         <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/TestBase.java" />
         <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/MyListener.java" />
-        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/Login.java" />
         <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/Jenng/settings.gradle" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/Login.java" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/TestBase.java" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/PushNotificationsTest.java" />
+        <option value="$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java" />
       </list>
     </option>
   </component>
@@ -648,12 +676,15 @@
     <option name="width" value="1072" />
     <option name="height" value="543" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -715,18 +746,22 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Jeeng" type="462c0819:PsiDirectoryNode" />
-              <item name="TestsJeeng" type="462c0819:PsiDirectoryNode" />
+              <item name="testsJeeng" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alx\Documents\GitHub\Project_Jeeng\Jenng\src\test\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -740,7 +775,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.PushNotificationsTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -760,11 +795,69 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="Jeeng.testsJeeng" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jeeng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jeeng.testsJeeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Jeeng.testsJeeng" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jeeng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jeeng.testsJeeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Jeeng.testsJeeng" />
+      <option name="MAIN_CLASS_NAME" value="Jeeng.testsJeeng.Login" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="Login.loginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Jenng_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jeeng.TestsJeeng.*" />
+          <option name="PATTERN" value="Jeeng.testsJeeng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -772,8 +865,66 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="Jeeng.TestsJeeng" />
-      <option name="MAIN_CLASS_NAME" value="Jeeng.TestsJeeng.Login" />
+      <option name="MAIN_CLASS_NAME" value="Jeeng.testsJeeng.Login" />
       <option name="METHOD_NAME" value="loginTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="PushNotificationsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jeeng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jeeng.testsJeeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Jeeng.testsJeeng" />
+      <option name="MAIN_CLASS_NAME" value="Jeeng.testsJeeng.PushNotificationsTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="PushNotificationsTest.testPushNotifications" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jeeng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jeeng.testsJeeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Jeeng.testsJeeng" />
+      <option name="MAIN_CLASS_NAME" value="Jeeng.testsJeeng.PushNotificationsTest" />
+      <option name="METHOD_NAME" value="testPushNotifications" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -811,8 +962,19 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="TestNG.Login.loginTest" />
+      <item itemvalue="TestNG.PushNotificationsTest.testPushNotifications" />
+      <item itemvalue="TestNG.Login" />
+      <item itemvalue="TestNG.Jeeng.testsJeeng" />
+      <item itemvalue="TestNG.PushNotificationsTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PushNotificationsTest" />
+        <item itemvalue="TestNG.PushNotificationsTest.testPushNotifications" />
+        <item itemvalue="TestNG.Jeeng.testsJeeng" />
+        <item itemvalue="TestNG.Login" />
         <item itemvalue="TestNG.Login.loginTest" />
       </list>
     </recent_temporary>
@@ -831,34 +993,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Login_loginTest - 2018.11.27 at 10h 11m 46s.xml">
-      <configuration name="Login.loginTest" configurationId="TestNG" />
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 40m 12s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_loginTest - 2018.11.27 at 10h 24m 56s.xml">
-      <configuration name="Login.loginTest" configurationId="TestNG" />
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 48m 05s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_loginTest - 2018.11.27 at 10h 25m 41s.xml">
-      <configuration name="Login.loginTest" configurationId="TestNG" />
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 49m 36s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 51m 25s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 54m 21s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 57m 06s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 57m 49s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 14h 58m 47s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 15h 01m 43s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PushNotificationsTest - 2018.11.28 at 15h 06m 44s.xml">
+      <configuration name="PushNotificationsTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32952693" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2575988" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32952693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26519758" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -871,6 +1054,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32952693" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -878,17 +1062,67 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/Login.java">
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="324">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="756">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/PushNotificationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -899,7 +1133,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/MyListener.java">
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/MyListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-315">
           <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
@@ -909,65 +1143,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/Jenng/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/Model.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="127">
+          <caret line="168" column="13" selection-start-line="168" selection-start-column="13" selection-end-line="168" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/TestsJeeng/Login.java">
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="282">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="135">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543318643929.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543318705756.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543319065244.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543320606423.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543321487288.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543321386994.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543321590751.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543323606948.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543325997471.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543326022635.png" />
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543347212488.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543348584375.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543348155411.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543348370155.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543348544539.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543349706933.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543349612603.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543349509024.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543349799427.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="56" column="43" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/testsJeeng/PushNotificationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543409660760.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/screen - 1543410403688.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenng/src/test/java/Jeeng/appManager/PushNotifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

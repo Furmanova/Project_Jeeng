@@ -1,4 +1,4 @@
-package Jeeng.TestsJeeng;
+package Jeeng.testsJeeng;
 
 import com.google.common.io.Files;
 import org.openqa.selenium.*;

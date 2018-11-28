@@ -1,4 +1,4 @@
-package Jeeng.TestsJeeng;
+package Jeeng.testsJeeng;
 
 import Jeeng.appManager.ApplicationManager;
 import org.openqa.selenium.remote.BrowserType;
@@ -8,8 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import java.lang.reflect.Method;
 
 public class TestBase extends MyListener{
-    public static ApplicationManager app =
-            new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
+    public static ApplicationManager app = new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
     @BeforeMethod
     public void logTestStart(Method method) {
         logger.info("Start test" + method.getName());

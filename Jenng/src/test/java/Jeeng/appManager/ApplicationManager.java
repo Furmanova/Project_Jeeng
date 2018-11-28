@@ -1,6 +1,6 @@
 package Jeeng.appManager;
 
-import Jeeng.TestsJeeng.MyListener;
+import Jeeng.testsJeeng.MyListener;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.BrowserType;
@@ -11,6 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class ApplicationManager {
     public static final String HOST = "https://v3.dashboard.staging.jeeng.com/signin";
     SessionHelper sessionHelper;
+    PushNotifications pushNotifications;
 
     EventFiringWebDriver driver;
     private String browser;
@@ -22,17 +23,19 @@ public class ApplicationManager {
     public void start() {
 
         if (browser.equals(BrowserType.CHROME)) {
-            driver =new EventFiringWebDriver( new ChromeDriver());
+            driver = new EventFiringWebDriver(new ChromeDriver());
         } else if (browser.equals(BrowserType.FIREFOX)) {
-            driver = new EventFiringWebDriver (new FirefoxDriver());
+            driver = new EventFiringWebDriver(new FirefoxDriver());
         }
         driver.register(new MyListener());
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         sessionHelper = new SessionHelper(driver);
-
+        pushNotifications = new PushNotifications(driver);
         sessionHelper.openSite(HOST);
+        sessionHelper.login("demo@jeeng.com","demo2018");
+        sessionHelper.clickToLogin();
     }
 
     public void stop() {
@@ -44,4 +47,7 @@ public class ApplicationManager {
     }
 
 
+    public PushNotifications getPushNotifications() {
+        return pushNotifications;
+    }
 }
